@@ -22,7 +22,8 @@ Step zero: bash setup_repo.sh
 In this repository we used data from the publicly available [GDSC](https://www.cancerrxgene.org/) and [PDX Novartis](https://www.nature.com/articles/nm.3954) datasets.
 
 # Citation
-Preprint to be released.
+
+Peres da Silva, R., Suphavilai, C. & Nagarajan, N. TUGDA: task uncertainty guided domain adaptation for robust generalization of cancer drug response prediction from in vitro to in vivo settings. Bioinformatics 37, i76–i83 (2021). [OUP Bioinformatics](https://academic.oup.com/bioinformatics/article/37/Supplement_1/i76/6277145)
 
 # Contact information
 
